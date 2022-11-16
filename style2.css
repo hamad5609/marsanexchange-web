@@ -1,0 +1,124 @@
+/* MARSAN EXCHANGE */
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+
+html{
+    width:100%;
+    font-size:12px;
+    background:#000;
+}
+
+body{
+    width:100%;
+    background:#000;
+    
+    font-family:'PT Sans', sans-serif;
+}   
+
+a:link{
+    text-decoration:none;
+    font-style: italic;
+    font-weight:700;
+    color:inherit;
+}
+a:visited{
+    text-decoration:none;
+    color:inherit;
+}
+a:hover{
+    text-decoration:none;
+    opacity:0.6;
+}
+a:active{
+    text-decoration:underline;
+}
+
+.marsan_i{
+    padding-top:6vw;
+    padding:10vw;
+    max-width:700px;q
+}
+
+.marsan_i_logo{
+    width:8rem;
+}
+
+
+.marsan_i_terms{
+    background-color: #D0EEDB;
+    color: #000;
+}
+
+.marsan_i_privacy{
+    background-color: #272E37;
+    color: #FFF;
+}
+
+h1, h2, h3, h4, h5, h6{
+
+}
+
+h2{
+    font-family: 'Exo', sans-serif;
+    font-size:2rem;
+    margin-top:3rem;
+}
+
+p{
+    margin-top:1rem;
+    line-height: 1.3rem;
+    font-size:1.1rem;
+}
+
+h5{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1.3rem;
+    font-weight: 700;
+    line-height: 1.5rem;
+}
+
+strong{
+    font-weight:700;
+}
+
+ul{
+    margin-top:2rem;
+    margin-top:1rem;
+    margin-left:3rem;
+}
+
+li{
+    display: list-item;
+    list-style-type: disc;
+    line-height: 1.1rem;
+    margin-bottom: 0.3rem;
+}
+
+@media(min-width:600px){
+
+    .marsan_i{
+        padding-top:6vw;
+        padding:10vw;
+        width:70vw;
+    }
+
+    .marsan_i_logo{
+        width:10rem;
+    }
+    
+}
+
+@media(min-width:1000px){
+
+    .marsan_i{
+        padding-top:6vw;
+        padding:10vw;
+        width:60vw;
+    }
+
+    .marsan_i_logo{
+        width:11rem;
+    }
+    
+}
