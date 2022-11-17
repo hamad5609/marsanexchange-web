@@ -22,6 +22,13 @@ var marsan = {
     "exchange_button_en":"Let's talk on Telegram",
 
 
+    "exchange_presskit_sub_fr":"",
+    "exchange_presskit_sub_en":"brand identity assets<br>to download.",
+    "exchange_presskit_p_fr":"",
+    "exchange_presskit_p_en":"Thank you for using these resources made especially for your use and making noise around all these beautiful projects. <strong>Feel free to download our logo, colors palette or team member photos.</strong> ",
+   
+
+
 
 
 
