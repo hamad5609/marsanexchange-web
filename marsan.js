@@ -22,11 +22,6 @@ var marsan = {
     "exchange_button_en":"Let's talk on Telegram",
 
 
-    "exchange_presskit_sub_fr":"",
-    "exchange_presskit_sub_en":"brand identity assets<br>to download.",
-    "exchange_presskit_p_fr":"",
-    "exchange_presskit_p_en":"Thank you for using these resources made especially for your use and making noise around all these beautiful projects. <strong>Feel free to download our logo, colors palette or team member photos.</strong> ",
-   
 
 
 
@@ -188,6 +183,13 @@ var marsan = {
     "footer_com_cookiepref_en":"Cookie preferences",
     
 
+    "exchange_presskit_sub_en":"brand identity assets<br>to download.",
+    "exchange_presskit_sub_fr":"actifs d'identité de marque<br>Télécharger.",
+    "exchange_presskit_p_en":"Thank you for using these resources made especially for your use and making noise around all these beautiful projects. <strong>Feel free to download our logo, colors palette or team member photos.</strong> ",
+    "exchange_presskit_p_fr":"Merci d'utiliser ces ressources faites spécialement pour votre usage et de faire du bruit autour de tous ces beaux projets. <strong>N'hésitez pas à télécharger notre logo, notre palette de couleurs ou les photos des membres de l'équipe.</strong> ",
+   
+    "exchange_presskit_logos_en":"our<br>logos",
+    "exchange_presskit_logos_fr":"nos<br>logos",
 
 
     "000000":"0000000"
